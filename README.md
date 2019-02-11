@@ -1,20 +1,20 @@
 # TopQuant
 
-TopQuant.vip¼«¿íÁ¿»¯(Ô­zwÁ¿»¯)£¬ÖÐ¹úÐÂÁ¿»¯£¬pythonÁ¿»¯µÄÆôÃÉÈËÓë¿ªÍØÕß¡£
+TopQuant.vipæžå®½é‡åŒ–(åŽŸzwé‡åŒ–)ï¼Œä¸­å›½æ–°é‡åŒ–ï¼Œpythoné‡åŒ–çš„å¯è’™äººä¸Žå¼€æ‹“è€…ã€‚
 TopQuant.vip (original ZW Quant), New Quantization in China, Enlightenment and Pioneer of Python Quantization.
 
 
-topq_talib.py£¬Top¼«¿íÄ§¸Ä°ætalibº¯Êý¿â1.0,Ô­Ãû zw°ætalibº¯Êý¿â¡£²ÉÓÃÈ«ÐÂµÄpandasÈí¼þ£¬¶Ôtalibº¯Êý½øÐÐ¶þ´Î·â×°£¬ Ìá¹©ÁËÊýÊ®¸ö³£ÓÃµÄ½ðÈÚÖ¸±êº¯Êý£¬ÓëpandasÎÞ·ì¼¯³É£¬¿ÉÒÔÖ±½Óµ÷ÓÃ¡£²Î¼û:  http://www.topquant.vip/?p=599
+topq_talib.pyï¼ŒTopæžå®½é­”æ”¹ç‰ˆtalibå‡½æ•°åº“1.0,åŽŸå zwç‰ˆtalibå‡½æ•°åº“ã€‚é‡‡ç”¨å…¨æ–°çš„pandasè½¯ä»¶ï¼Œå¯¹talibå‡½æ•°è¿›è¡ŒäºŒæ¬¡å°è£…ï¼Œ æä¾›äº†æ•°åä¸ªå¸¸ç”¨çš„é‡‘èžæŒ‡æ ‡å‡½æ•°ï¼Œä¸Žpandasæ— ç¼é›†æˆï¼Œå¯ä»¥ç›´æŽ¥è°ƒç”¨ã€‚å‚è§:  http://www.topquant.vip/?p=599
 
-zwquantÀÏ°æ±¾Ô´Âë.rar,ÐÐÒµº±¼ûµÄÃæÏò¹ý³ÌµÄÁ¿»¯³ÌÐò£¬·ÇÊÂ¼þÇý¶¯£¨No Event£©£¬ÎÞClassÀàº¯Êý£¬È«³ÌÖÐÎÄ×¢½âµ½º¯Êý¼¶£¬ÊÇ³õÑ§Õß×îºÃµÄÁ¿»¯ÈëÃÅÑ§Ï°¼Ü¹¹£¬¸ü¶à²Î¼û£º¡¶ÁãÆðµãPython´óÊý¾ÝÓëÁ¿»¯½»Ò×¡·
+zwquantè€ç‰ˆæœ¬æºç .rar,è¡Œä¸šç½•è§çš„é¢å‘è¿‡ç¨‹çš„é‡åŒ–ç¨‹åºï¼Œéžäº‹ä»¶é©±åŠ¨ï¼ˆNo Eventï¼‰ï¼Œæ— Classç±»å‡½æ•°ï¼Œå…¨ç¨‹ä¸­æ–‡æ³¨è§£åˆ°å‡½æ•°çº§ï¼Œæ˜¯åˆå­¦è€…æœ€å¥½çš„é‡åŒ–å…¥é—¨å­¦ä¹ æž¶æž„ï¼Œæ›´å¤šå‚è§ï¼šã€Šé›¶èµ·ç‚¹Pythonå¤§æ•°æ®ä¸Žé‡åŒ–äº¤æ˜“ã€‹
 
-TopQ¼«¿íÏµÁÐÁ¿»¯h5»¥¶¯Ê½Ë¼Î¬µ¼Í¼£ºTOP_bas2019¼«¿íÁ¿»¯ÈëÃÅ°à¿Î¼þh5»¥¶¯Ä¿Â¼.html£¬Quant¼«¿íÁ¿»¯Ñ§Ï°Ë¼Î¬µ¼Í¼2019.html£¬talib¼«¿í½ðÈÚº¯Êý¿âË¼Î¬µ¼Í¼.html£¬¸ü¶à²Î¼û£º TopQ¼«¿í·¢²¼Á¿»¯ÐÐÒµ£ºÊ×Ì×h5¸ñÊ½»¥¶¯ÐÍË¼Î¬µ¼Í¼ ¨C ¼«¿í http://www.topquant.vip/?p=877
+TopQæžå®½ç³»åˆ—é‡åŒ–h5äº’åŠ¨å¼æ€ç»´å¯¼å›¾ï¼šTOP_bas2019æžå®½é‡åŒ–å…¥é—¨ç­è¯¾ä»¶h5äº’åŠ¨ç›®å½•.htmlï¼ŒQuantæžå®½é‡åŒ–å­¦ä¹ æ€ç»´å¯¼å›¾2019.htmlï¼Œtalibæžå®½é‡‘èžå‡½æ•°åº“æ€ç»´å¯¼å›¾.htmlï¼Œæ›´å¤šå‚è§ï¼š TopQæžå®½å‘å¸ƒé‡åŒ–è¡Œä¸šï¼šé¦–å¥—h5æ ¼å¼äº’åŠ¨åž‹æ€ç»´å¯¼å›¾ â€“ æžå®½ http://www.topquant.vip/?p=877
 
-TOP¼«¿íÁ¿»¯QQ×ÜÈº:124134140,ÈýÇ§ÈË³¬¼¶´óÈº£¬µã»÷Á´½Ó¼ÓÈë¡¾TOP¼«¿íÁ¿»¯QQ×ÜÈº¡¿https://jq.qq.com/?_wv=1027&k=5dsNjwl
+TOPæžå®½é‡åŒ–QQæ€»ç¾¤:124134140,ä¸‰åƒäººè¶…çº§å¤§ç¾¤ï¼Œç‚¹å‡»é“¾æŽ¥åŠ å…¥ã€TOPæžå®½é‡åŒ–QQæ€»ç¾¤ã€‘https://jq.qq.com/?_wv=1027&k=5dsNjwl
 
 ![](https://github.com/ziwang-com/TopQuant/blob/master/images/TQQ2018.png)
 
-TOP¼«¿íÁ¿»¯QQ×ÜÈº:124134140 ¶þÎ¬Âë
+TOPæžå®½é‡åŒ–QQæ€»ç¾¤:124134140 äºŒç»´ç 
 -------------------
 ![](https://github.com/ziwang-com/TopQuant/blob/master/images/tq01.PNG)
 ![](https://github.com/ziwang-com/TopQuant/blob/master/images/tq08.PNG)
