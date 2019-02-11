@@ -14,7 +14,7 @@ TOP极宽量化QQ总群:124134140,三千人超级大群，点击链接加入【T
 
 ![](https://github.com/ziwang-com/TopQuant/blob/master/images/TQQ2018.png)
 
-更多资源，其浏览TopQ极宽量化wz： http://www.TopQuant.vip
+更多资源，其浏览TopQ极宽量化网站： http://www.TopQuant.vip
 -------------------
 ![](https://github.com/ziwang-com/TopQuant/blob/master/images/tq01.PNG)
 ![](https://github.com/ziwang-com/TopQuant/blob/master/images/tq08.PNG)
